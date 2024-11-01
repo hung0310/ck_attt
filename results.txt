@@ -1,0 +1,2 @@
+average: 0 
+std dev: 0.0 
